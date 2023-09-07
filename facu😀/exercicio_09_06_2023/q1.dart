@@ -5,7 +5,6 @@ double percentagem(var qnt) => (qnt * 20)/100;
 
 main (){
     int idade=0;
-    var idades;
     int media_idade_exelente =0;
     var qnt_pessoas_regular=0;
     var percentagem_bom=0;
